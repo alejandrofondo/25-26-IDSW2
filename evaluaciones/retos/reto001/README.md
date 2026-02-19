@@ -19,6 +19,13 @@ Ver cómo detenerse a pensar en los criterios de ciclo de vida, exclusividad y t
 
 ## ¿Cómo?
 
+### Escenarios propuestos
+
+- Ecosistema musical
+- Decisión
+- Identidad
+- Conversación
+
 ### Identificar
 
 Escribir **en lenguaje natural** los elementos del dominio. Si hay descartes, justifique.
